@@ -22,11 +22,10 @@ The project provides an opportunity for curious minds to further explore the ide
 <img align="center" src="https://user-images.githubusercontent.com/62131484/113925459-aaf0cc00-9808-11eb-905f-f2c11862edcc.jpg" width = "900" height="400" >
 <img align="center" src="https://user-images.githubusercontent.com/62131484/113925472-adebbc80-9808-11eb-90fb-e2f494176a26.jpg" width="900" height="400" >
 <img align="center" src = "https://user-images.githubusercontent.com/62131484/113925476-af1ce980-9808-11eb-8ccc-2bb1f634504c.jpg" width = "900" height="400" >
-<img align="center" src = "https://user-images.githubusercontent.com/43717429/108608038-30035b80-73ea-11eb-875c-bc31c57650c8.jpeg"  width = "900" height="400" >
-<img align="center" src = "https://user-images.githubusercontent.com/43717429/108608045-372a6980-73ea-11eb-80cd-fc6d14700b7c.png"  width = "900" height="400" >
-<img align="center" src = "https://user-images.githubusercontent.com/43717429/108608071-693bcb80-73ea-11eb-8683-bcd1bcd59e51.jpeg"  width = "900" height="400" >
-<img align="center" src = "https://user-images.githubusercontent.com/43717429/108608078-76f15100-73ea-11eb-9e31-ed01902f2064.jpeg"  width = "900" height="400" >
-<img align="center"src = ""  width = "900" height="400" >
+<img align="center" src = "https://user-images.githubusercontent.com/62131484/113925485-b0e6ad00-9808-11eb-8e46-f49486f78639.jpg"  width = "900" height="400" >
+<img align="center" src = "https://user-images.githubusercontent.com/62131484/113925487-b0e6ad00-9808-11eb-92d5-2a0ce69cd2d6.jpg"  width = "900" height="400" >
+<img align="center" src = "https://user-images.githubusercontent.com/62131484/113925495-b2b07080-9808-11eb-8b63-75d4bf983b46.jpg"  width = "900" height="400" >
+
 
 
 
