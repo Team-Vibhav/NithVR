@@ -13,13 +13,13 @@ The project provides an opportunity for curious minds to further explore the ide
 
 <h3 align="Center">Features of our project:📌</h3>
 <ul>
-  <li>3D models of all the buildingsin NITH</li>
+  <li>3D models of all the buildings in NITH</li>
   <li>Minimap to view the map from above and to directly teleport to different locations</li>
   <li>Reset button to move to the latest checkpoint crossed</li>
   <li>Joystick for movement</li>
   </ul>
 <h3 align ="Center">Gallery🖼️</h3>
-<img align="center" src="https://user-images.githubusercontent.com/43717429/108607035-e6177700-73e3-11eb-8757-767c908779f0.jpeg" width = "900" height="400" >
+<img align="center" src="https://user-images.githubusercontent.com/62131484/113925459-aaf0cc00-9808-11eb-905f-f2c11862edcc.jpg" width = "900" height="400" >
 <img align="center" src="https://user-images.githubusercontent.com/43717429/108607049-f4fe2980-73e3-11eb-974c-0795f0e843c5.jpeg" width="900" height="400" >
 <img align="center" src = "https://user-images.githubusercontent.com/43717429/108608037-2a0d7a80-73ea-11eb-9ab3-8f612c63bcae.jpeg" width = "900" height="400" >
 <img align="center" src = "https://user-images.githubusercontent.com/43717429/108608038-30035b80-73ea-11eb-875c-bc31c57650c8.jpeg"  width = "900" height="400" >
