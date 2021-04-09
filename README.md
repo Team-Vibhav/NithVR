@@ -18,7 +18,7 @@ The project provides an opportunity for curious minds to further explore the ide
   <li>Reset button to move to the latest checkpoint crossed</li>
   <li>Joystick for movement</li>
   </ul>
-[Drive Link for Unity Package: ](https://drive.google.com/file/d/1Ie-19yxSsflwVph9sD7xbGwFwPhwQ_gN/view?usp=sharing)  
+<a href="https://drive.google.com/file/d/1pFUQjK7iKMoEu2YR7hf_wwcTXHi0Tlnp/view?usp=sharing">Drive Link for Unity Package</a>
 <h3 align ="Center">Gallery🖼️</h3>
 <img align="center" src="https://user-images.githubusercontent.com/62131484/113925459-aaf0cc00-9808-11eb-905f-f2c11862edcc.jpg" width = "900" height="400" >
 <img align="center" src="https://user-images.githubusercontent.com/62131484/113925472-adebbc80-9808-11eb-90fb-e2f494176a26.jpg" width="900" height="400" >
